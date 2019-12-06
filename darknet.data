@@ -1,0 +1,5 @@
+classes = 6
+valid  = ../demo_test.txt
+names = ../classes.names
+backup = ../demo/weights/
+train  = ../demo_train.txt
